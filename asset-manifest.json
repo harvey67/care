@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/care/static/css/main.d014c84a.chunk.css",
+    "main.js": "/care/static/js/main.464f5bbf.chunk.js",
+    "main.js.map": "/care/static/js/main.464f5bbf.chunk.js.map",
+    "runtime-main.js": "/care/static/js/runtime-main.245211a9.js",
+    "runtime-main.js.map": "/care/static/js/runtime-main.245211a9.js.map",
+    "static/js/2.966f6b19.chunk.js": "/care/static/js/2.966f6b19.chunk.js",
+    "static/js/2.966f6b19.chunk.js.map": "/care/static/js/2.966f6b19.chunk.js.map",
+    "static/js/3.dd79990d.chunk.js": "/care/static/js/3.dd79990d.chunk.js",
+    "static/js/3.dd79990d.chunk.js.map": "/care/static/js/3.dd79990d.chunk.js.map",
+    "index.html": "/care/index.html",
+    "static/css/main.d014c84a.chunk.css.map": "/care/static/css/main.d014c84a.chunk.css.map",
+    "static/js/2.966f6b19.chunk.js.LICENSE.txt": "/care/static/js/2.966f6b19.chunk.js.LICENSE.txt",
+    "static/media/clothesDonate.defeb0b1.jpg": "/care/static/media/clothesDonate.defeb0b1.jpg",
+    "static/media/field1.501b3c72.jpg": "/care/static/media/field1.501b3c72.jpg",
+    "static/media/field2.001013cd.jpg": "/care/static/media/field2.001013cd.jpg",
+    "static/media/field3.48ea8872.jpg": "/care/static/media/field3.48ea8872.jpg",
+    "static/media/field4.7d0b956d.jpg": "/care/static/media/field4.7d0b956d.jpg",
+    "static/media/foodDonate.606d6faf.jpg": "/care/static/media/foodDonate.606d6faf.jpg",
+    "static/media/moneyDonate.7cc31a1b.jpg": "/care/static/media/moneyDonate.7cc31a1b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.245211a9.js",
+    "static/js/2.966f6b19.chunk.js",
+    "static/css/main.d014c84a.chunk.css",
+    "static/js/main.464f5bbf.chunk.js"
+  ]
+}
