@@ -1,25 +1,30 @@
 {
   "files": {
-    "main.css": "/care/static/css/main.61eafdeb.chunk.css",
-    "main.js": "/care/static/js/main.d39d0720.chunk.js",
-    "main.js.map": "/care/static/js/main.d39d0720.chunk.js.map",
-    "runtime-main.js": "/care/static/js/runtime-main.245211a9.js",
-    "runtime-main.js.map": "/care/static/js/runtime-main.245211a9.js.map",
-    "static/js/2.e1928a53.chunk.js": "/care/static/js/2.e1928a53.chunk.js",
-    "static/js/2.e1928a53.chunk.js.map": "/care/static/js/2.e1928a53.chunk.js.map",
-    "static/js/3.dd79990d.chunk.js": "/care/static/js/3.dd79990d.chunk.js",
-    "static/js/3.dd79990d.chunk.js.map": "/care/static/js/3.dd79990d.chunk.js.map",
+    "main.css": "/care/static/css/main.3b488fd6.chunk.css",
+    "main.js": "/care/static/js/main.edb45afa.chunk.js",
+    "main.js.map": "/care/static/js/main.edb45afa.chunk.js.map",
+    "runtime-main.js": "/care/static/js/runtime-main.4a9ca45b.js",
+    "runtime-main.js.map": "/care/static/js/runtime-main.4a9ca45b.js.map",
+    "static/js/2.65af1dac.chunk.js": "/care/static/js/2.65af1dac.chunk.js",
+    "static/js/2.65af1dac.chunk.js.map": "/care/static/js/2.65af1dac.chunk.js.map",
+    "static/js/3.ab44e758.chunk.js": "/care/static/js/3.ab44e758.chunk.js",
+    "static/js/3.ab44e758.chunk.js.map": "/care/static/js/3.ab44e758.chunk.js.map",
     "index.html": "/care/index.html",
-    "static/css/main.61eafdeb.chunk.css.map": "/care/static/css/main.61eafdeb.chunk.css.map",
-    "static/js/2.e1928a53.chunk.js.LICENSE.txt": "/care/static/js/2.e1928a53.chunk.js.LICENSE.txt",
+    "static/css/main.3b488fd6.chunk.css.map": "/care/static/css/main.3b488fd6.chunk.css.map",
+    "static/js/2.65af1dac.chunk.js.LICENSE.txt": "/care/static/js/2.65af1dac.chunk.js.LICENSE.txt",
+    "static/media/care0.ec6dfb85.jpg": "/care/static/media/care0.ec6dfb85.jpg",
+    "static/media/care1.2f747711.png": "/care/static/media/care1.2f747711.png",
+    "static/media/care2.114dd4e0.jpg": "/care/static/media/care2.114dd4e0.jpg",
+    "static/media/care3.62537d7d.jpg": "/care/static/media/care3.62537d7d.jpg",
     "static/media/clothesDonate.defeb0b1.jpg": "/care/static/media/clothesDonate.defeb0b1.jpg",
     "static/media/foodDonate.606d6faf.jpg": "/care/static/media/foodDonate.606d6faf.jpg",
+    "static/media/logo.224de002.png": "/care/static/media/logo.224de002.png",
     "static/media/moneyDonate.7cc31a1b.jpg": "/care/static/media/moneyDonate.7cc31a1b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.245211a9.js",
-    "static/js/2.e1928a53.chunk.js",
-    "static/css/main.61eafdeb.chunk.css",
-    "static/js/main.d39d0720.chunk.js"
+    "static/js/runtime-main.4a9ca45b.js",
+    "static/js/2.65af1dac.chunk.js",
+    "static/css/main.3b488fd6.chunk.css",
+    "static/js/main.edb45afa.chunk.js"
   ]
 }
