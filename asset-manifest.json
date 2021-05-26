@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/care/static/css/main.005ff2a9.chunk.css",
-    "main.js": "/care/static/js/main.324d669f.chunk.js",
-    "main.js.map": "/care/static/js/main.324d669f.chunk.js.map",
+    "main.css": "/care/static/css/main.067c57dd.chunk.css",
+    "main.js": "/care/static/js/main.d62362bd.chunk.js",
+    "main.js.map": "/care/static/js/main.d62362bd.chunk.js.map",
     "runtime-main.js": "/care/static/js/runtime-main.245211a9.js",
     "runtime-main.js.map": "/care/static/js/runtime-main.245211a9.js.map",
     "static/js/2.930c628d.chunk.js": "/care/static/js/2.930c628d.chunk.js",
@@ -10,21 +10,23 @@
     "static/js/3.dd79990d.chunk.js": "/care/static/js/3.dd79990d.chunk.js",
     "static/js/3.dd79990d.chunk.js.map": "/care/static/js/3.dd79990d.chunk.js.map",
     "index.html": "/care/index.html",
-    "static/css/main.005ff2a9.chunk.css.map": "/care/static/css/main.005ff2a9.chunk.css.map",
+    "static/css/main.067c57dd.chunk.css.map": "/care/static/css/main.067c57dd.chunk.css.map",
     "static/js/2.930c628d.chunk.js.LICENSE.txt": "/care/static/js/2.930c628d.chunk.js.LICENSE.txt",
     "static/media/backgroundbw.588e3331.jpg": "/care/static/media/backgroundbw.588e3331.jpg",
     "static/media/care0.ec6dfb85.jpg": "/care/static/media/care0.ec6dfb85.jpg",
     "static/media/care1.2f747711.png": "/care/static/media/care1.2f747711.png",
     "static/media/care2.114dd4e0.jpg": "/care/static/media/care2.114dd4e0.jpg",
     "static/media/care3.62537d7d.jpg": "/care/static/media/care3.62537d7d.jpg",
-    "static/media/clothesDonate.defeb0b1.jpg": "/care/static/media/clothesDonate.defeb0b1.jpg",
     "static/media/foodDonate.606d6faf.jpg": "/care/static/media/foodDonate.606d6faf.jpg",
-    "static/media/moneyDonate.7cc31a1b.jpg": "/care/static/media/moneyDonate.7cc31a1b.jpg"
+    "static/media/mastercard.81315434.png": "/care/static/media/mastercard.81315434.png",
+    "static/media/medicine.80dddb42.jpg": "/care/static/media/medicine.80dddb42.jpg",
+    "static/media/moneyDonate.7cc31a1b.jpg": "/care/static/media/moneyDonate.7cc31a1b.jpg",
+    "static/media/paypal.562d7c41.png": "/care/static/media/paypal.562d7c41.png"
   },
   "entrypoints": [
     "static/js/runtime-main.245211a9.js",
     "static/js/2.930c628d.chunk.js",
-    "static/css/main.005ff2a9.chunk.css",
-    "static/js/main.324d669f.chunk.js"
+    "static/css/main.067c57dd.chunk.css",
+    "static/js/main.d62362bd.chunk.js"
   ]
 }
