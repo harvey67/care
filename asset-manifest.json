@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/care/static/css/main.3a45bbab.chunk.css",
-    "main.js": "/care/static/js/main.e6e02a10.chunk.js",
-    "main.js.map": "/care/static/js/main.e6e02a10.chunk.js.map",
+    "main.js": "/care/static/js/main.619238e1.chunk.js",
+    "main.js.map": "/care/static/js/main.619238e1.chunk.js.map",
     "runtime-main.js": "/care/static/js/runtime-main.245211a9.js",
     "runtime-main.js.map": "/care/static/js/runtime-main.245211a9.js.map",
-    "static/js/2.a9d03690.chunk.js": "/care/static/js/2.a9d03690.chunk.js",
-    "static/js/2.a9d03690.chunk.js.map": "/care/static/js/2.a9d03690.chunk.js.map",
+    "static/js/2.a943d98a.chunk.js": "/care/static/js/2.a943d98a.chunk.js",
+    "static/js/2.a943d98a.chunk.js.map": "/care/static/js/2.a943d98a.chunk.js.map",
     "static/js/3.dd79990d.chunk.js": "/care/static/js/3.dd79990d.chunk.js",
     "static/js/3.dd79990d.chunk.js.map": "/care/static/js/3.dd79990d.chunk.js.map",
     "index.html": "/care/index.html",
     "static/css/main.3a45bbab.chunk.css.map": "/care/static/css/main.3a45bbab.chunk.css.map",
-    "static/js/2.a9d03690.chunk.js.LICENSE.txt": "/care/static/js/2.a9d03690.chunk.js.LICENSE.txt",
+    "static/js/2.a943d98a.chunk.js.LICENSE.txt": "/care/static/js/2.a943d98a.chunk.js.LICENSE.txt",
     "static/media/backgroundbw.f241be38.jpg": "/care/static/media/backgroundbw.f241be38.jpg",
     "static/media/care0.ec6dfb85.jpg": "/care/static/media/care0.ec6dfb85.jpg",
     "static/media/care4.5143f59c.jpg": "/care/static/media/care4.5143f59c.jpg",
@@ -21,14 +21,12 @@
     "static/media/mastercard.81315434.png": "/care/static/media/mastercard.81315434.png",
     "static/media/medicine.80dddb42.jpg": "/care/static/media/medicine.80dddb42.jpg",
     "static/media/moneyDonate.7cc31a1b.jpg": "/care/static/media/moneyDonate.7cc31a1b.jpg",
-    "static/media/paypal.562d7c41.png": "/care/static/media/paypal.562d7c41.png",
-    "static/media/sponsor1.e114cebe.jpg": "/care/static/media/sponsor1.e114cebe.jpg",
-    "static/media/sponsor2.fb0c1cbb.jpg": "/care/static/media/sponsor2.fb0c1cbb.jpg"
+    "static/media/paypal.562d7c41.png": "/care/static/media/paypal.562d7c41.png"
   },
   "entrypoints": [
     "static/js/runtime-main.245211a9.js",
-    "static/js/2.a9d03690.chunk.js",
+    "static/js/2.a943d98a.chunk.js",
     "static/css/main.3a45bbab.chunk.css",
-    "static/js/main.e6e02a10.chunk.js"
+    "static/js/main.619238e1.chunk.js"
   ]
 }
