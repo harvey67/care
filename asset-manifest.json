@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/care/static/css/main.3a45bbab.chunk.css",
-    "main.js": "/care/static/js/main.a90d08ab.chunk.js",
-    "main.js.map": "/care/static/js/main.a90d08ab.chunk.js.map",
-    "runtime-main.js": "/care/static/js/runtime-main.245211a9.js",
-    "runtime-main.js.map": "/care/static/js/runtime-main.245211a9.js.map",
-    "static/js/2.a943d98a.chunk.js": "/care/static/js/2.a943d98a.chunk.js",
-    "static/js/2.a943d98a.chunk.js.map": "/care/static/js/2.a943d98a.chunk.js.map",
-    "static/js/3.dd79990d.chunk.js": "/care/static/js/3.dd79990d.chunk.js",
-    "static/js/3.dd79990d.chunk.js.map": "/care/static/js/3.dd79990d.chunk.js.map",
+    "main.css": "/care/static/css/main.5f173c80.chunk.css",
+    "main.js": "/care/static/js/main.3c829b5e.chunk.js",
+    "main.js.map": "/care/static/js/main.3c829b5e.chunk.js.map",
+    "runtime-main.js": "/care/static/js/runtime-main.904cc237.js",
+    "runtime-main.js.map": "/care/static/js/runtime-main.904cc237.js.map",
+    "static/js/2.812ff91b.chunk.js": "/care/static/js/2.812ff91b.chunk.js",
+    "static/js/2.812ff91b.chunk.js.map": "/care/static/js/2.812ff91b.chunk.js.map",
+    "static/js/3.cf75bfcd.chunk.js": "/care/static/js/3.cf75bfcd.chunk.js",
+    "static/js/3.cf75bfcd.chunk.js.map": "/care/static/js/3.cf75bfcd.chunk.js.map",
     "index.html": "/care/index.html",
-    "static/css/main.3a45bbab.chunk.css.map": "/care/static/css/main.3a45bbab.chunk.css.map",
-    "static/js/2.a943d98a.chunk.js.LICENSE.txt": "/care/static/js/2.a943d98a.chunk.js.LICENSE.txt",
+    "static/css/main.5f173c80.chunk.css.map": "/care/static/css/main.5f173c80.chunk.css.map",
+    "static/js/2.812ff91b.chunk.js.LICENSE.txt": "/care/static/js/2.812ff91b.chunk.js.LICENSE.txt",
     "static/media/backgroundbw.f241be38.jpg": "/care/static/media/backgroundbw.f241be38.jpg",
     "static/media/care0.ec6dfb85.jpg": "/care/static/media/care0.ec6dfb85.jpg",
     "static/media/care4.5143f59c.jpg": "/care/static/media/care4.5143f59c.jpg",
@@ -24,9 +24,9 @@
     "static/media/paypal.562d7c41.png": "/care/static/media/paypal.562d7c41.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.245211a9.js",
-    "static/js/2.a943d98a.chunk.js",
-    "static/css/main.3a45bbab.chunk.css",
-    "static/js/main.a90d08ab.chunk.js"
+    "static/js/runtime-main.904cc237.js",
+    "static/js/2.812ff91b.chunk.js",
+    "static/css/main.5f173c80.chunk.css",
+    "static/js/main.3c829b5e.chunk.js"
   ]
 }
